@@ -8,6 +8,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "Lucas Silva",
+	"repository": "https://github.com/nightwisper/Clan-Manager-Bot.git",
 	"license": "MIT",
 	"dependencies": {
 		"discord.js": "^11.3.2"
