@@ -1,14 +1,15 @@
 {
-  "name": "clan-organizer",
-  "version": "1.0.0",
-  "description": "Clan organizer bot for Discord",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Lucas Silva",
-  "license": "MIT",
-  "dependencies": {
-    "discord.js": "^11.3.2"
-  }
+	"name": "clan-organizer",
+	"version": "1.0.0",
+	"description": "Clan organizer bot for Discord",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Lucas Silva",
+	"license": "MIT",
+	"dependencies": {
+		"discord.js": "^11.3.2"
+	}
 }
