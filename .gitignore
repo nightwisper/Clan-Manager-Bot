@@ -1,2 +1,3 @@
 config/devKeys.js
 node_modules
+lib/cmder/events/store.json
